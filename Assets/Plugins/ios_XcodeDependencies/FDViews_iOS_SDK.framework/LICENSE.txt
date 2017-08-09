@@ -1,0 +1,15 @@
+********  Legal notice  ********
+
+
+The content (code, sample images, sample data, documentation, binary files) of this archive is the exclusive property of 4D View Solutions SAS.
+
+This content can not be disclosed either in total or in part to any third parties without the written consent of 4D View Solutions SAS.
+
+This content can only be used
+for testing the 4D View Solutions SDK and can not be used for any commercial or non-commercial project.
+
+This software is covered by 4D View Solutions EULA.
+
+Additional license information may be provided with the downloaded file(s) or with accompanying software licenses.
+
+This license is governed by French law.

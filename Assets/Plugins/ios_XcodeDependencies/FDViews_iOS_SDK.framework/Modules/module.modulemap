@@ -1,0 +1,6 @@
+framework module FDViews_iOS_SDK {
+  umbrella header "FDViews_iOS_SDK.h"
+
+  export *
+  module * { export * }
+}
